@@ -1,0 +1,12 @@
+Dear {{ name }},
+
+Welcome to {{ appName }}!
+
+To confirm your account, please copy the below code into your app and click confirm:
+
+{{ linkUrl }}
+
+Sincerely,
+The {{ appName }} Team.
+
+PS: replies to this mail are not monitored.
